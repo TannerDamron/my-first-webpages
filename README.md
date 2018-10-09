@@ -1,3 +1,2 @@
-# Webpage
-#### Learned how to track, push and commit
-#### Learned proper spacing, styling and indentation
+# First Webpages Assignment
+#### Learned proper indentation and spacing, and adding images, links, and some styling through HTML. 
